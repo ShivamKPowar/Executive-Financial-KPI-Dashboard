@@ -1,4 +1,4 @@
-# Executive-Financial-KPI-Dashboard
+# Executive-Financial-Performance-Dashboard
 # 🔍 Project Overview
 This project is a Power BI dashboard designed to evaluate financial health and performance.
 It delivers insights into sales, profit, costs, margins, and segment performance, enabling leaders to identify growth opportunities and optimize business strategies.
