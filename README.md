@@ -40,4 +40,5 @@ It delivers insights into sales, profit, costs, margins, and segment performance
 - Helps in tracking cost efficiency and monitoring financial sustainability.
 - Supports strategic planning and forecasting with historical trend analysis.
 - Improves transparency and accountability in financial reporting.
-# 📷 Dashboard Preview
+# 📊 Dashboard Preview
+![Alt text]https://github.com/ShivamKPowar/Executive-Financial-KPI-Dashboard/blob/main/Executive-Financial-KPI-Dashboard.png
